@@ -15,3 +15,6 @@ bricks:
       path: bricks/feature
       ref: feature-v0.1.0
 ```
+
+# 解説です
+https://zenn.dev/k9i/articles/859aa1999ece9a
